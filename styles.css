@@ -1,0 +1,10 @@
+
+body::before {
+    display: none;
+    content: '';
+    height: 60px;
+}
+
+.custom-bg {
+    background-color: white;
+}
