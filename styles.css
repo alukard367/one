@@ -27,12 +27,13 @@ body::before {
     height: 40vh;
 }
 
-.bg-white {
-    background-color: white;
-}
-
 .bold {
     font-weight: 600;
+}
+
+
+.w-100 {
+    min-height: 100%;
 }
 
 
